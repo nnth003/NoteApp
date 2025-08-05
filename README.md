@@ -10,6 +10,7 @@
 - **Ngôn ngữ:** Kotlin
 - **Giao diện:** XML Layout
 - **Điều hướng:** Fragment
+- **Hiển thị dữ liệu** RecyclerView
 - **Cơ sở dữ liệu:** SQLite (SQLiteOpenHelper)
 
 ---
