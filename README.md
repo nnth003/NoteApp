@@ -25,5 +25,5 @@
 
 <p float="left">
   <img src="img/addnote.png" width="45%" />
-  <img src="showdata.png" width="45%" />
+  <img src="img/showdata.png" width="45%" />
 </p>
