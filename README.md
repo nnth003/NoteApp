@@ -23,10 +23,6 @@
 
 ## 💡 Giao diện người dùng
 
-### 📷 Màn hình thêm dữ liệu
-
-![Thêm dữ liệu](img/addnote.png)
-
-### 📷 Màn hình hiển thị danh sách
-
-![Danh sách dữ liệu](img/showdata.png)
+| ![Thêm dữ liệu](img/addnote.png) | ![Danh sách dữ liệu](showdata.png) |
+|:---------------------------------------:|:----------------------------------------------:|
+| Màn hình Thêm dữ liệu                   | Màn hình Danh sách dữ liệu                     |
