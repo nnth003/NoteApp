@@ -23,6 +23,7 @@
 
 ## 💡 Giao diện người dùng
 
-| ![Thêm dữ liệu](img/addnote.png) | ![Danh sách dữ liệu](showdata.png) |
-|:---------------------------------------:|:----------------------------------------------:|
-| Màn hình Thêm dữ liệu                   | Màn hình Danh sách dữ liệu                     |
+<p float="left">
+  <img src="img/addnote.png" width="45%" />
+  <img src="showdata.png" width="45%" />
+</p>
